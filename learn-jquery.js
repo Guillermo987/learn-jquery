@@ -3,16 +3,17 @@
 $(document).ready(function(){
 
   // BASIC SELECTORS
-  //$('*').css('border', '4px solid red');
+  $('#lesson-1').css('border', '4px solid red');
 
   // BASIC ANIMATIONS
-  // $('.box:first').animate({bottom: '200px', left: '200px', }, 800);
+  //$('.box:first').animate({bottom: '200px', left: '200px', }, 800);
 
   // INDEX FILTERS
-  // $('p:eq(2)').css('border', '4px solid red');
+   $('p:eq(2)').css('border', '4px solid red');
 
   // RELATIONSHIP FILTERS
-  //$('.box:empty').css('border', '4px solid red');
+  $('.box:empty').css('border', '4px solid red');
+  $('.box:parent').css('border', '4px solid red');
 
   // ATTRIBUTE FILTERS
   //$('a[href$=".co.uk"]').css('border', '4px solid red');
