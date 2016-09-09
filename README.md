@@ -1,2 +1,2 @@
-# Learn-jQuery-in-15-minutes
-These files support the youtube tutorials found here: https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
+# Practising Jquery
+This is an ongoing simple personal project to improve my Jquery and JS skills
